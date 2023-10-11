@@ -3,7 +3,7 @@ void setup()
  int age = 20; // Task1: Using int variable.
  println(age);
  
- float  s = 1; // Task1: Using float variable.
+ float  s = 1.0; // Task1: Using float variable.
  println(s);
  
  String name = "Allan"; // Task1: Using String variable.
